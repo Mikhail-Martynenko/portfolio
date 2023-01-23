@@ -1,0 +1,59 @@
+
+.name {
+    position: relative;
+    display: flex;
+    border-bottom: 1px solid #009ba3;
+}
+
+.name .cosmic {
+    position: relative;
+    cursor: pointer;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name .cosmic span {
+    font-size: 50px;
+    font-weight: 100;
+    -webkit-text-stroke: 1px #23b1d8;
+    color: transparent;
+    transition: 0.5s;
+}
+
+.name .cosmic:hover span {
+    opacity: 0;
+}
+
+.name .cosmic::before {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-size: 3rem;
+    height: 0;
+    font-weight: 200;
+    overflow: hidden;
+    transition: 0.6s ease-in-out;
+    text-align: center;
+    line-height: 120px;
+    color: #23b1d8;
+}
+
+.name .cosmic:hover::before {
+    height: 100%;
+    filter: drop-shadow(0 0 2rem #23b1d8);
+}
+
+@media (max-width: 620px) {
+    .name .cosmic span {
+        font-size: 35px;
+    }
+
+    .name .cosmic::before {
+        width: 100%;
+        font-size: 35px;
+    }
+}
