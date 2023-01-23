@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.189b156d.css",
-    "main.js": "/portfolio/static/js/main.de8b76d3.js",
-    "static/media/earth.gif": "/portfolio/static/media/earth.7144d2fd150138b568b7.gif",
-    "static/media/astronaut.gif": "/portfolio/static/media/astronaut.a4dc3e349baeb562c391.gif",
-    "static/media/2D-Triangulation-Web-App.PNG": "/portfolio/static/media/2D-Triangulation-Web-App.14dded39afb475e1bda8.PNG",
-    "static/media/not-bug-this-is-a-feature.gif": "/portfolio/static/media/not-bug-this-is-a-feature.05047e64b6fc6e49e7b9.gif",
-    "static/media/sun.svg": "/portfolio/static/media/sun.2d76252b61ff8ce9bef71b6138cf2a79.svg",
-    "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
-    "static/media/github.svg": "/portfolio/static/media/github.2fb8c8ce77ed61b47b34a8de97f73b56.svg",
-    "index.html": "/portfolio/index.html",
-    "static/media/telegram.svg": "/portfolio/static/media/telegram.039de563a7189613a435cdea54399e3e.svg",
-    "main.189b156d.css.map": "/portfolio/static/css/main.189b156d.css.map",
-    "main.de8b76d3.js.map": "/portfolio/static/js/main.de8b76d3.js.map"
+    "main.css": "/portfolio/main/static/css/main.189b156d.css",
+    "main.js": "/portfolio/main/static/js/main.cf80d0bb.js",
+    "static/media/earth.gif": "/portfolio/main/static/media/earth.7144d2fd150138b568b7.gif",
+    "static/media/astronaut.gif": "/portfolio/main/static/media/astronaut.a4dc3e349baeb562c391.gif",
+    "static/media/2D-Triangulation-Web-App.PNG": "/portfolio/main/static/media/2D-Triangulation-Web-App.14dded39afb475e1bda8.PNG",
+    "static/media/not-bug-this-is-a-feature.gif": "/portfolio/main/static/media/not-bug-this-is-a-feature.05047e64b6fc6e49e7b9.gif",
+    "static/media/sun.svg": "/portfolio/main/static/media/sun.2d76252b61ff8ce9bef71b6138cf2a79.svg",
+    "static/media/moon.svg": "/portfolio/main/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/github.svg": "/portfolio/main/static/media/github.2fb8c8ce77ed61b47b34a8de97f73b56.svg",
+    "index.html": "/portfolio/main/index.html",
+    "static/media/telegram.svg": "/portfolio/main/static/media/telegram.039de563a7189613a435cdea54399e3e.svg",
+    "main.189b156d.css.map": "/portfolio/main/static/css/main.189b156d.css.map",
+    "main.cf80d0bb.js.map": "/portfolio/main/static/js/main.cf80d0bb.js.map"
   },
   "entrypoints": [
     "static/css/main.189b156d.css",
-    "static/js/main.de8b76d3.js"
+    "static/js/main.cf80d0bb.js"
   ]
 }
