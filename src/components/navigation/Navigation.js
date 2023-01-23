@@ -9,21 +9,21 @@ const Navigation = () => {
         <nav className="nav">
             <div className="container">
                 <div className="nav-row">
-                    {<NavLink to="portfolio/main" className="logo">Portfolio</NavLink>}
+                    {<NavLink to="portfolio" className="logo">Portfolio</NavLink>}
 
                     <DarkThemeButton/>
 
                     <ul className="nav-list">
                         <li className="nav-list__item">
-                            <NavLink to="portfolio/main"
+                            <NavLink to="portfolio"
                                      className={({isActive}) => isActive ? activeLink : notActiveLink}>Main</NavLink>
                         </li>
                         <li className="nav-list__item">
-                            <NavLink to="portfolio/projects"
+                            <NavLink to="my-portfolio/projects"
                                      className={({isActive}) => isActive ? activeLink : notActiveLink}>Projects</NavLink>
                         </li>
                         <li className="nav-list__item">
-                            <NavLink to="portfolio/contacts"
+                            <NavLink to="my-portfolio/contacts"
                                      className={({isActive}) => isActive ? activeLink : notActiveLink}>Contacts</NavLink>
                         </li>
                     </ul>
