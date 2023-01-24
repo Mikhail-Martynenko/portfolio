@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.189b156d.css",
-    "main.js": "/portfolio/static/js/main.1385490b.js",
+    "main.css": "/portfolio/static/css/main.42474a33.css",
+    "main.js": "/portfolio/static/js/main.2a872696.js",
     "static/media/earth.gif": "/portfolio/static/media/earth.7144d2fd150138b568b7.gif",
     "static/media/astronaut.gif": "/portfolio/static/media/astronaut.a4dc3e349baeb562c391.gif",
     "static/media/2D-Triangulation-Web-App.PNG": "/portfolio/static/media/2D-Triangulation-Web-App.14dded39afb475e1bda8.PNG",
@@ -11,11 +11,11 @@
     "static/media/github.svg": "/portfolio/static/media/github.2fb8c8ce77ed61b47b34a8de97f73b56.svg",
     "index.html": "/portfolio/index.html",
     "static/media/telegram.svg": "/portfolio/static/media/telegram.039de563a7189613a435cdea54399e3e.svg",
-    "main.189b156d.css.map": "/portfolio/static/css/main.189b156d.css.map",
-    "main.1385490b.js.map": "/portfolio/static/js/main.1385490b.js.map"
+    "main.42474a33.css.map": "/portfolio/static/css/main.42474a33.css.map",
+    "main.2a872696.js.map": "/portfolio/static/js/main.2a872696.js.map"
   },
   "entrypoints": [
-    "static/css/main.189b156d.css",
-    "static/js/main.1385490b.js"
+    "static/css/main.42474a33.css",
+    "static/js/main.2a872696.js"
   ]
 }
