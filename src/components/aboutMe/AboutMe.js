@@ -13,6 +13,9 @@ const AboutMe = () => {
                                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
                                  title="javascript" alt="javascript" width="150" height="150"/>
                             <img className="icons-skills__item"
+                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+                                 title="javascript" alt="TypeScript" width="150" height="150"/>
+                            <img className="icons-skills__item"
                                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
                                  title="html5" alt="html5" width="150" height="150"/>
                             <img className="icons-skills__item"

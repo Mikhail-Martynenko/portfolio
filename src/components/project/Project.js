@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from "react-router-dom";
 
-const Project = ({title, img,index}) => {
+const Project = ({title, img, index}) => {
 
     return (
         <li className="project">

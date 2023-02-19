@@ -258,7 +258,7 @@ html, body {
 .project__image {
     padding: 25px;
     width: 100%;
-    border-radius: 50px;
+    border-radius: 35px;
 }
 
 /*Project_details*/
@@ -305,7 +305,7 @@ html, body {
 
 .content-list__item {
     font-family: 'Playfair Display', serif;
-    font-size: 40px;
+    font-size: 30px;
     line-height: 1.6;
 }
 

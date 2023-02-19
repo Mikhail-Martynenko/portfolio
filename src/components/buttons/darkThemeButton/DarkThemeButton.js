@@ -6,7 +6,7 @@ const DarkThemeButton = () => {
     const [darkTheme, setDarkTheme] = useState('light')
 
     useEffect(() => {
-        darkTheme === 'dark'? document.body.classList.add('dark-theme') : document.body.classList.remove('dark-theme')
+        darkTheme === 'dark' ? document.body.classList.add('dark-theme') : document.body.classList.remove('dark-theme')
     }, [darkTheme])
 
     const buttonDarkThemeActive = 'dark-theme-button dark-theme-button--active';
